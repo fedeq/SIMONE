@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:drawableStart="@drawable/ic_more_vert_white_24dp">
+    <item
+        android:id="@+id/action_alta"
+        android:title="Dar Alta"
+        />
+    <item
+        android:id="@+id/action_edit"
+        android:title="Editar"
+        />
+    <item
+        android:id="@+id/action_delete"
+        android:title="Eliminar"
+        />
+</menu>
