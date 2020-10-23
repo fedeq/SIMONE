@@ -1,4 +1,4 @@
-package com.example.fedeq.simone
+package com.project.fedeq.simone
 
 import android.app.AlertDialog
 import android.app.DatePickerDialog

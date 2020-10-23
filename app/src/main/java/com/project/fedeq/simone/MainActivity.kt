@@ -1,4 +1,4 @@
-package com.example.fedeq.simone
+package com.project.fedeq.simone
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

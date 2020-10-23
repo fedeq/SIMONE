@@ -1,4 +1,4 @@
-package com.example.fedeq.simone
+package com.project.fedeq.simone
 
 import com.google.firebase.database.IgnoreExtraProperties
 import java.util.*

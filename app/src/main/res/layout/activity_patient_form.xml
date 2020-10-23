@@ -8,7 +8,7 @@
 
     <fragment
         android:id="@+id/fragment3"
-        android:name="com.example.fedeq.simone.PatientFormFragment"
+        android:name="com.project.fedeq.simone.PatientFormFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layout_constraintBottom_toBottomOf="parent"

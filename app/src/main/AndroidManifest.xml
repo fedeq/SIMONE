@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fedeq.simone">
+    package="com.project.fedeq.simone">
 
     <!-- To auto-complete the email text field in the login form with the user's emails -->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
@@ -14,14 +14,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity" />
-        <activity android:name=".PatientsActivity"
+        <activity android:name="com.project.fedeq.simone.MainActivity" />
+        <activity android:name="com.project.fedeq.simone.PatientsActivity"
             android:screenOrientation="portrait"
             android:theme="@style/NoActionBar">
 
         </activity>
 
-        <activity android:name=".LoginActivity"
+        <activity android:name="com.project.fedeq.simone.LoginActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Launcher">
             <intent-filter>
@@ -30,11 +30,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LvsActivity"
+        <activity android:name="com.project.fedeq.simone.LvsActivity"
             android:screenOrientation="portrait"/>
-        <activity android:name=".PatientFormActivity"
+        <activity android:name="com.project.fedeq.simone.PatientFormActivity"
             android:screenOrientation="portrait"/>
-        <activity android:name=".PatientInfoActivity"
+        <activity android:name="com.project.fedeq.simone.PatientInfoActivity"
             android:screenOrientation="portrait"
             android:theme="@style/NoActionBar"></activity>
     </application>

@@ -1,4 +1,4 @@
-package com.example.fedeq.simone
+package com.project.fedeq.simone
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
